@@ -14,5 +14,5 @@ plt.plot(x,y**3)
 #alak_1_commit
 plt.plot(x,y**5)
 
-#alak_1_commit
+#alak_2_commit
 plt.plot(x,y**5)
